@@ -2,6 +2,11 @@ Este archivo está destinado a generar conflictos con git
 
 Ante esta situación, se pude: 
 
-1) Dejar los cambios locales
-2) Dejar los cambios remotos
+1) Dejar los cambios locales, descartando los cambios remotos
+2) Dejar los cambios remotos, descartando los cambios locales
+3) Dejar ambos cambios
+
+
+1) Dejar los cambios locales, descartando los cambios remotos
+2) Dejar los cambios remotos, descartando los cambios locales
 3) Dejar ambos cambios
