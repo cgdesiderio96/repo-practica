@@ -5,3 +5,7 @@ Ante esta situación, se pude:
 1) Dejar los cambios locales
 2) Dejar los cambios remotos
 3) Dejar ambos cambios
+
+
+
+Buenaaaas!
